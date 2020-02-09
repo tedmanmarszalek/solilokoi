@@ -1,15 +1,23 @@
 ---
 ID: 2
-post_title: Welcome
+post_title: Why?
 author: tedman.marszalek
 post_excerpt: ""
 layout: page
-permalink: https://solilokoi.com/sample-page/
+permalink: https://solilokoi.com/explore/
 published: true
 post_date: 2020-01-12 23:04:40
 ---
+<!-- wp:paragraph {"align":"justify"} -->
+<p class="has-text-align-justify">
+We soliloquists of solilokoi have no reason why. <br>
+We're not really sure of much. <br>
+But we'd like to at least talk about it. <br>
+</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -25,5 +33,13 @@ post_date: 2020-01-12 23:04:40
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http:/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>Solilokoi wishes you wealth and prosperity in your life</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
 <!-- /wp:paragraph -->
