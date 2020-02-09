@@ -9,11 +9,11 @@ published: true
 post_date: 2020-01-12 23:04:40
 ---
 <!-- wp:paragraph {"align":"justify"} -->
-<p class="has-text-align-justify">
-We soliloquists of solilokoi have no reason why. <br>
-We're not really sure of much. <br>
-But we'd like to at least talk about it. <br>
-</p>
+<p class="has-text-align-justify"> We soliloquists of solilokoi have no reason why. <br> We're not really sure of much. <br> But we'd like to at least talk about it. <br> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> This is how we want to spend our time. <br> We're curious how you spend your time. <br> And that, we'd like to talk about. <br> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
