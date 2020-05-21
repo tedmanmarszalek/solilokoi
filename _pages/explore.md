@@ -1,6 +1,6 @@
 ---
 ID: 2
-post_title: Why?
+post_title: solilokoi
 author: tedman.marszalek
 post_excerpt: ""
 layout: page
