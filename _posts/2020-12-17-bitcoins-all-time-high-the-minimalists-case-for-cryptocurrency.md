@@ -1,6 +1,6 @@
 ---
 ID: 221
-post_title: 'Bitcoin’s All Time High: The Minimalist’s Case for Cryptocurrency'
+post_title: 'Bitcoin’s All-Time High: The Minimalist’s Case for Cryptocurrency'
 author: tedman.marszalek
 post_excerpt: ""
 layout: post
