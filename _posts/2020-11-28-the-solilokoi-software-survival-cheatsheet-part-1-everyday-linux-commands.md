@@ -10,7 +10,7 @@ published: true
 post_date: 2020-11-28 01:11:36
 ---
 <!-- wp:paragraph -->
-<p>For the full tutorial, check out <a href="https://solilokoi.com/the-solilokoi-software-survival-guide-part-1-your-everyday-list-of-linux-commands-for-any-new-software-engineer/" data-type="URL" data-id="https://solilokoi.com/the-solilokoi-software-survival-guide-part-1-your-everyday-list-of-linux-commands-for-any-new-software-engineer/">Part 1 of the Survival Guide</a>. </p>
+<p>This post is the first in out series of programming cheatsheets! </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -75,10 +75,14 @@ Best, solilokoi</code></pre>
 
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:code -->
-<pre class="wp-block-code"><code>ln -s &lt;file-patch-path> &lt;link-path-name></code></pre>
+<pre class="wp-block-code"><code>ln -s &lt;file-patch-path&gt; &lt;link-path-name&gt;</code></pre>
 <!-- /wp:code --></div></div>
 <!-- /wp:group -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>ln -s ../common_pkg/dependency.tf common_pkg_dependency.tf</code></pre>
 <!-- /wp:code -->
+
+<!-- wp:paragraph -->
+<p>For the full tutorial for Everyday Linux, check out <a href="https://solilokoi.com/the-solilokoi-software-survival-guide-part-1-your-everyday-list-of-linux-commands-for-any-new-software-engineer/">Part 1 of the Survival Guide</a>.</p>
+<!-- /wp:paragraph -->
