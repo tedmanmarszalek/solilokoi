@@ -42,7 +42,7 @@ post_date: 2020-12-17 16:53:18
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Without diverging into a completely tangential lecture, if you truly have expendable income, first consider some sort of charitable donation or investment in something sustainable or humanitarian. As mentioned, Bitcoin or altcoin investing should only be considered if you truly have some expendable income. My ultimate point is that I think minimalism and minimalist-minded investing can redirect some of our time and energy away from things and into sustainable infrastructure for the betterment of society.  </p>
+<p>Without diverging into a completely tangential lecture, if you truly have expendable income, first consider some sort of charitable donation or investment in something sustainable or humanitarian. As mentioned, Bitcoin or altcoin investing should only be considered if you truly have some expendable income. My ultimate point is that I think minimalism and minimalist-minded investing can redirect some of our time and energy away from things and into sustainable infrastructure for the betterment of society. &nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
