@@ -97,7 +97,7 @@ Best, solilokoi</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:code -->
-<pre class="wp-block-code"><code>kill -9 &lt;PID></code></pre>
+<pre class="wp-block-code"><code>kill -9 &lt;PID&gt;</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:paragraph -->
@@ -152,7 +152,7 @@ Best, solilokoi</code></pre>
 
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:code -->
-<pre class="wp-block-code"><code>ln -s &lt;file-patch-path> &lt;link-path-name></code></pre>
+<pre class="wp-block-code"><code>ln -s &lt;file-patch-path&gt; &lt;link-path-name&gt;</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:paragraph -->
@@ -169,5 +169,5 @@ Best, solilokoi</code></pre>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>Thanks for reading my Linux command essentials! I will continue to edit and expand upon these 2 minute tutorials by providing TLDR code cheatsheets. </p>
+<p>Thanks for reading my Linux command essentials! I will continue to edit and expand upon these 2 minute tutorials by providing TLDR code cheatsheets. Here is the first cheatsheet release for Everyday Linux: <a href="https://solilokoi.com/the-solilokoi-software-survival-cheatsheet-part-1-everyday-linux-commands/">Linux Cheatsheet</a>.</p>
 <!-- /wp:paragraph -->
